@@ -16,7 +16,7 @@ public class EntrarSistema {
         
         System.out.println(rec.calcular());
         
-        
+        System.out.println("Calcular área del tríangulo");
         System.out.println(tri.calcular());
         
     }
